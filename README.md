@@ -123,7 +123,7 @@ echo
 # Prompt for Diode connection
 # ------------------------------
 echo
-echo "    You MUST set the Diode Target and Token URL to point to the NetBox/Diode cluster. You will to ensure you  didoe target and token URL are correct"
+echo "    You MUST set the Diode Target and Token URL to point to the NetBox/Diode cluster. Ensure your diode target and token URL are correct"
 echo
 echo "    Example Orb-Agent Remote install:"
 echo "      grpc://192.168.0.204:8080/diode"
