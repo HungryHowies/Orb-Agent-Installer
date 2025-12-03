@@ -71,7 +71,6 @@ fi
 # Determine Docker network and default Diode target
 # ------------------------------
 echo "[*] NOTE: If the agent is on remote host use the HOST network"
-echo "[*] NOTE: If the agent is on Localhost use the same network Diode clouster is on"
 echo "[*] Detecting available Docker networks..."
 AVAILABLE_NETWORKS=($(docker network ls --format '{{.Name}}'))
 
