@@ -1,5 +1,6 @@
 # Orb-Agent-Installer
 This installs all components needed and configurations.
+NOTE: This script works off of the Devcie Role and Orb Agent Credentials.
 Create file.
 ```
 vi install_orb_agent.sh
